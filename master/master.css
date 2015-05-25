@@ -1,0 +1,22 @@
+body {
+background-color: #424242
+}
+
+p.home-logo {
+color: #551A8B;
+font-size: 50px;
+font-family: Helvetica
+}
+
+div.home-logo {
+background-color: #9E9E9E;
+max-width: 50%;
+width: 50%;
+height: 40%;
+padding-bottom: 30px;
+border-style: solid;
+border-color: #9E9E9E;
+border-width: 1px;
+border-radius: 5px;
+margin-top: 15%;
+}
